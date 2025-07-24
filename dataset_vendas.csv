@@ -1,0 +1,501 @@
+ID do Pedido,Data,Cliente,Região,Categoria,Produto,Quantidade,Preço Unitário,Receita,Lucro
+ORD0001,2025-05-30,Mitchell Johnson,Sul,Tecnologia,Impressora,10,614.57,6145.7,375.45
+ORD0002,2025-04-04,Connie Howe,Norte,Móveis,Mesa,9,782.74,7044.66,869.39
+ORD0003,2024-07-27,Stephanie Miller,Nordeste,Móveis,Mesa,7,2571.65,18001.55,2352.29
+ORD0004,2024-12-18,Christina Nielsen,Nordeste,Tecnologia,Mouse,9,1980.47,17824.23,4998.55
+ORD0005,2025-06-04,Bryan Vasquez,Norte,Papelaria,Caderno,4,2018.91,8075.64,2087.11
+ORD0006,2024-10-01,Joseph Brown,Centro-Oeste,Tecnologia,Impressora,3,1827.66,5482.98,1568.29
+ORD0007,2025-01-06,Courtney Rodriguez,Centro-Oeste,Móveis,Cadeira,5,2954.14,14770.7,1661.24
+ORD0008,2025-05-12,Krystal Carlson,Sudeste,Tecnologia,Impressora,5,314.74,1573.7,407.19
+ORD0009,2025-04-25,Dr. Donna Lawrence,Sul,Tecnologia,Mouse,8,2592.04,20736.32,5277.43
+ORD0010,2025-03-26,Richard Martin,Nordeste,Papelaria,Caneta,5,569.55,2847.75,245.22
+ORD0011,2025-01-29,Chad Jones,Centro-Oeste,Móveis,Estante,1,1601.15,1601.15,282.96
+ORD0012,2024-08-10,Miss Susan Tucker,Nordeste,Papelaria,Caderno,5,832.27,4161.35,648.22
+ORD0013,2024-10-01,Robert Gibbs,Centro-Oeste,Tecnologia,Mouse,6,1329.12,7974.72,920.58
+ORD0014,2024-11-24,John Franklin,Nordeste,Papelaria,Caderno,2,1992.96,3985.92,268.82
+ORD0015,2024-12-28,Sarah Jennings,Sudeste,Tecnologia,Monitor,5,533.55,2667.75,346.13
+ORD0016,2025-02-09,Meredith King,Sudeste,Tecnologia,Impressora,4,1132.08,4528.32,624.65
+ORD0017,2024-11-08,Elizabeth Jones,Centro-Oeste,Tecnologia,Monitor,7,1225.87,8581.09,585.26
+ORD0018,2024-08-25,Bonnie King,Sul,Tecnologia,Notebook,8,89.98,719.84,44.62
+ORD0019,2025-06-03,Mary Mcmillan,Centro-Oeste,Móveis,Mesa,1,444.3,444.3,130.16
+ORD0020,2025-04-19,Audrey Taylor,Norte,Tecnologia,Mouse,4,206.92,827.68,192.68
+ORD0021,2025-03-25,Henry Sanchez,Nordeste,Papelaria,Papel A4,9,1787.81,16090.29,2726.48
+ORD0022,2024-12-06,Jillian Bray,Centro-Oeste,Móveis,Mesa,8,730.55,5844.4,541.23
+ORD0023,2025-04-16,Randall Mason,Centro-Oeste,Tecnologia,Mouse,10,644.77,6447.7,1289.49
+ORD0024,2024-07-28,Bryan Green,Centro-Oeste,Móveis,Mesa,10,775.55,7755.5,940.12
+ORD0025,2024-10-08,Joseph Miller,Norte,Papelaria,Papel A4,1,892.79,892.79,254.29
+ORD0026,2024-12-09,Brianna Hodges,Sudeste,Papelaria,Caderno,8,1798.72,14389.76,3760.78
+ORD0027,2025-05-18,Gina Olson,Norte,Papelaria,Papel A4,9,2189.39,19704.51,3695.67
+ORD0028,2024-08-15,Tiffany Larson,Norte,Móveis,Estante,7,1676.26,11733.82,1817.47
+ORD0029,2025-02-17,Aaron Bird,Centro-Oeste,Móveis,Estante,1,2863.91,2863.91,697.49
+ORD0030,2024-09-23,Jessica Hamilton,Sudeste,Tecnologia,Notebook,5,2549.19,12745.95,741.58
+ORD0031,2024-08-23,Jessica Anderson,Centro-Oeste,Tecnologia,Impressora,5,1839.69,9198.45,743.1
+ORD0032,2025-04-17,William Blackwell,Centro-Oeste,Papelaria,Papel A4,4,524.1,2096.4,203.82
+ORD0033,2025-03-21,Randy Neal,Centro-Oeste,Tecnologia,Monitor,6,1007.31,6043.86,762.59
+ORD0034,2025-02-11,Roy Mckay,Centro-Oeste,Papelaria,Papel A4,5,1849.94,9249.7,909.83
+ORD0035,2024-10-10,April Stephenson,Norte,Papelaria,Papel A4,7,2245.9,15721.3,1030.44
+ORD0036,2024-12-11,Kylie Smith,Norte,Tecnologia,Notebook,4,2901.93,11607.72,3465.0
+ORD0037,2024-11-28,Damon Lee,Norte,Móveis,Cadeira,3,2206.93,6620.79,838.03
+ORD0038,2025-02-19,Laura Rivera,Centro-Oeste,Papelaria,Caneta,2,2822.27,5644.54,1383.49
+ORD0039,2025-06-25,Michael Reed,Sul,Papelaria,Caderno,10,2163.38,21633.8,1288.34
+ORD0040,2025-02-23,Shelby Stewart,Norte,Móveis,Mesa,6,2457.87,14747.22,2915.01
+ORD0041,2024-11-18,Lance Fuller,Centro-Oeste,Tecnologia,Notebook,1,2239.69,2239.69,313.79
+ORD0042,2024-08-05,Jason Vega,Norte,Tecnologia,Monitor,5,477.19,2385.95,272.42
+ORD0043,2025-04-05,Adam Estrada DDS,Nordeste,Móveis,Cadeira,4,151.64,606.56,42.72
+ORD0044,2025-04-22,Jennifer Cuevas,Centro-Oeste,Tecnologia,Impressora,2,2328.89,4657.78,953.09
+ORD0045,2024-07-30,David Park,Nordeste,Móveis,Cadeira,5,983.34,4916.7,826.21
+ORD0046,2024-10-08,Michael Mcknight,Sudeste,Tecnologia,Notebook,1,341.59,341.59,91.16
+ORD0047,2024-10-18,Karen Brown,Nordeste,Móveis,Cadeira,8,777.7,6221.6,370.33
+ORD0048,2024-08-31,David Donaldson,Sudeste,Papelaria,Caderno,6,1236.35,7418.1,1495.79
+ORD0049,2025-03-09,Joshua Smith,Sudeste,Papelaria,Papel A4,2,2109.76,4219.52,1077.6
+ORD0050,2025-02-09,Jeffrey Smith,Centro-Oeste,Papelaria,Caneta,4,2856.02,11424.08,1938.25
+ORD0051,2024-09-19,David Dodson,Centro-Oeste,Tecnologia,Impressora,2,1107.79,2215.58,179.21
+ORD0052,2025-06-27,Cindy Porter,Centro-Oeste,Tecnologia,Monitor,5,2613.15,13065.75,2387.42
+ORD0053,2024-10-31,Charles Miller,Nordeste,Papelaria,Caderno,2,1328.57,2657.14,556.68
+ORD0054,2025-04-26,Kathleen White,Centro-Oeste,Móveis,Cadeira,4,1855.63,7422.52,2222.48
+ORD0055,2025-03-19,Tammy Perez,Sudeste,Tecnologia,Impressora,6,1164.63,6987.78,765.44
+ORD0056,2025-03-06,Aaron Kramer,Sudeste,Móveis,Estante,8,1801.27,14410.16,853.16
+ORD0057,2024-09-13,Heather Perez,Centro-Oeste,Tecnologia,Mouse,3,2781.99,8345.97,836.73
+ORD0058,2024-10-27,Thomas Gould,Centro-Oeste,Móveis,Cadeira,3,1163.19,3489.57,468.68
+ORD0059,2025-06-21,Charles Simon,Sul,Papelaria,Caderno,3,2207.46,6622.38,846.95
+ORD0060,2025-06-16,Kimberly Fitzgerald,Sudeste,Papelaria,Papel A4,8,2536.31,20290.48,4270.75
+ORD0061,2024-11-14,Laura Davis,Nordeste,Móveis,Cadeira,3,1254.54,3763.62,998.15
+ORD0062,2025-06-24,Justin Espinoza,Sul,Tecnologia,Impressora,5,1515.05,7575.25,1499.3
+ORD0063,2025-06-10,Thomas King,Norte,Tecnologia,Notebook,7,2347.33,16431.31,4255.59
+ORD0064,2024-09-04,Jacqueline Huber,Sudeste,Papelaria,Caderno,9,321.59,2894.31,303.72
+ORD0065,2025-01-19,Sarah Holder,Sudeste,Papelaria,Papel A4,1,918.49,918.49,222.02
+ORD0066,2025-05-26,Jennifer West,Nordeste,Móveis,Mesa,5,2547.79,12738.95,1120.66
+ORD0067,2025-03-01,Michael Russell,Sul,Tecnologia,Notebook,8,494.76,3958.08,839.76
+ORD0068,2025-02-26,Bobby Taylor,Sudeste,Papelaria,Papel A4,3,732.86,2198.58,254.55
+ORD0069,2025-04-09,Melissa Rice,Norte,Tecnologia,Impressora,2,978.04,1956.08,425.23
+ORD0070,2024-09-01,Jesse Sexton,Sudeste,Papelaria,Papel A4,2,891.84,1783.68,106.08
+ORD0071,2025-03-16,Stacey Harrison,Nordeste,Papelaria,Caderno,4,219.87,879.48,232.95
+ORD0072,2024-08-30,Kimberly Marquez,Norte,Móveis,Estante,5,1626.45,8132.25,2422.86
+ORD0073,2024-08-05,Daniel Rivera,Norte,Móveis,Cadeira,9,2219.4,19974.6,3756.64
+ORD0074,2025-02-13,David Lawrence,Sul,Móveis,Mesa,4,345.52,1382.08,98.05
+ORD0075,2024-09-29,James Manning,Norte,Papelaria,Caneta,2,1689.14,3378.28,1003.69
+ORD0076,2025-07-12,Daniel Pearson,Norte,Móveis,Mesa,6,2162.45,12974.7,3677.34
+ORD0077,2024-08-18,Sydney Riley,Centro-Oeste,Tecnologia,Impressora,9,1250.49,11254.41,3250.28
+ORD0078,2025-06-07,Tracy Ortiz,Sul,Papelaria,Papel A4,8,2102.99,16823.92,4238.57
+ORD0079,2024-09-28,Timothy Jacobs,Norte,Móveis,Estante,9,208.42,1875.78,165.14
+ORD0080,2025-03-12,Thomas Mullen,Sul,Tecnologia,Impressora,1,2087.74,2087.74,568.08
+ORD0081,2025-05-15,Chad Stewart,Sul,Papelaria,Papel A4,7,1354.39,9480.73,1594.44
+ORD0082,2025-02-18,Tiffany Jimenez,Centro-Oeste,Papelaria,Caneta,6,1407.44,8444.64,2354.51
+ORD0083,2025-07-18,Jill Kennedy,Nordeste,Tecnologia,Mouse,4,2404.02,9616.08,1946.1
+ORD0084,2025-07-09,Shelly Delgado,Sul,Móveis,Mesa,4,1687.27,6749.08,1823.3
+ORD0085,2025-07-13,Lori Rodriguez,Centro-Oeste,Móveis,Estante,4,1585.74,6342.96,1282.66
+ORD0086,2024-08-09,Diane Cantu,Norte,Papelaria,Caderno,6,2615.6,15693.6,3551.55
+ORD0087,2025-01-07,Casey Reese,Sudeste,Móveis,Cadeira,10,810.63,8106.3,599.66
+ORD0088,2025-04-10,Emily Ho,Centro-Oeste,Móveis,Cadeira,2,345.84,691.68,69.89
+ORD0089,2025-07-15,Emily Craig,Sudeste,Tecnologia,Impressora,5,2200.62,11003.1,929.03
+ORD0090,2024-08-31,Sharon Morgan,Norte,Tecnologia,Impressora,9,1016.57,9149.13,1686.54
+ORD0091,2025-01-10,Donna Rocha,Sudeste,Papelaria,Papel A4,2,473.65,947.3,242.71
+ORD0092,2025-01-12,Ashley Smith,Nordeste,Móveis,Cadeira,6,1509.05,9054.3,2343.27
+ORD0093,2025-04-14,Joshua Jones,Nordeste,Móveis,Cadeira,4,2509.52,10038.08,2769.25
+ORD0094,2025-03-09,Carrie Chase,Sudeste,Papelaria,Papel A4,4,1424.02,5696.08,390.13
+ORD0095,2025-02-06,Jose Parker,Centro-Oeste,Móveis,Mesa,1,1859.76,1859.76,282.07
+ORD0096,2024-08-20,Sherry Miller,Nordeste,Papelaria,Caneta,8,1849.19,14793.52,3117.98
+ORD0097,2025-06-16,Amy Burgess,Centro-Oeste,Papelaria,Caderno,6,2292.18,13753.08,2753.45
+ORD0098,2025-06-27,Christina Madden,Sul,Tecnologia,Notebook,6,1819.92,10919.52,604.24
+ORD0099,2024-08-27,Lauren Graham,Nordeste,Papelaria,Papel A4,10,486.29,4862.9,1005.37
+ORD0100,2025-01-21,Elizabeth Rowe,Norte,Móveis,Estante,6,2340.61,14043.66,3892.99
+ORD0101,2025-07-10,Paula Jones,Norte,Móveis,Estante,6,721.35,4328.1,434.82
+ORD0102,2025-02-23,Jennifer James,Sudeste,Móveis,Estante,7,394.73,2763.11,581.55
+ORD0103,2025-04-23,Ashley Clark,Sudeste,Tecnologia,Impressora,6,659.85,3959.1,944.98
+ORD0104,2025-04-09,Lauren Colon,Centro-Oeste,Papelaria,Caneta,7,1904.32,13330.24,3973.34
+ORD0105,2025-05-28,Caleb Snyder,Sul,Tecnologia,Mouse,9,1714.71,15432.39,1802.35
+ORD0106,2024-11-20,William Lyons,Norte,Móveis,Cadeira,8,1453.91,11631.28,3219.7
+ORD0107,2025-02-11,Kelly Ellis,Nordeste,Papelaria,Caderno,3,1462.28,4386.84,460.51
+ORD0108,2024-10-20,Andrew Nguyen,Norte,Tecnologia,Monitor,6,920.9,5525.4,1218.91
+ORD0109,2024-07-29,David Francis,Centro-Oeste,Papelaria,Caderno,2,2875.3,5750.6,976.96
+ORD0110,2025-07-19,Gregg Poole,Sudeste,Tecnologia,Mouse,4,165.63,662.52,114.24
+ORD0111,2025-03-17,Theresa Jimenez,Sul,Móveis,Cadeira,10,1321.29,13212.9,811.09
+ORD0112,2025-04-05,Patricia Vargas,Sudeste,Móveis,Estante,5,936.08,4680.4,906.44
+ORD0113,2024-08-30,Julia Miller,Centro-Oeste,Móveis,Mesa,10,31.29,312.9,76.57
+ORD0114,2024-11-15,Mark Baker,Sul,Móveis,Estante,7,2895.09,20265.63,4040.03
+ORD0115,2024-09-05,Justin Clarke,Nordeste,Móveis,Mesa,10,405.31,4053.1,1083.3
+ORD0116,2025-06-16,Hayley Black,Sudeste,Papelaria,Caderno,4,1749.73,6998.92,1831.61
+ORD0117,2025-05-21,Amanda Fitzgerald,Norte,Papelaria,Caneta,8,2577.08,20616.64,4849.59
+ORD0118,2025-05-21,Dr. Brittany Hanson,Sudeste,Tecnologia,Monitor,8,788.88,6311.04,1445.72
+ORD0119,2025-03-24,Sharon Norris,Norte,Tecnologia,Notebook,1,1184.64,1184.64,82.41
+ORD0120,2024-09-26,Mary Sanchez,Sudeste,Tecnologia,Mouse,9,876.19,7885.71,1806.74
+ORD0121,2025-04-05,Daniel Martinez,Norte,Papelaria,Caneta,7,107.16,750.12,53.87
+ORD0122,2025-03-11,Nicholas Buchanan,Nordeste,Tecnologia,Notebook,9,301.98,2717.82,457.91
+ORD0123,2025-01-28,Amy Brown,Sul,Papelaria,Caderno,10,892.47,8924.7,2584.36
+ORD0124,2024-11-02,Jason Frederick,Nordeste,Papelaria,Papel A4,10,2043.28,20432.8,6048.28
+ORD0125,2024-08-08,Steven Jones,Centro-Oeste,Móveis,Estante,8,2824.81,22598.48,6332.99
+ORD0126,2024-10-29,Michael Rosales,Sul,Papelaria,Caneta,2,1282.47,2564.94,592.91
+ORD0127,2025-06-11,David Morgan DDS,Nordeste,Papelaria,Caneta,2,821.05,1642.1,491.18
+ORD0128,2025-07-22,Daniel Black,Sul,Móveis,Cadeira,10,2793.34,27933.4,2942.85
+ORD0129,2025-05-29,Gregory Walker,Sul,Papelaria,Papel A4,3,1729.26,5187.78,1170.87
+ORD0130,2024-08-01,David Patel,Nordeste,Papelaria,Caderno,9,2331.21,20980.89,3167.9
+ORD0131,2024-11-13,Melissa Beasley,Sudeste,Móveis,Cadeira,8,1472.98,11783.84,2481.87
+ORD0132,2025-03-14,Christy Kemp,Sul,Móveis,Mesa,9,2769.1,24921.9,3651.35
+ORD0133,2024-10-17,Kyle Walters,Centro-Oeste,Tecnologia,Impressora,6,773.18,4639.08,587.18
+ORD0134,2024-09-01,Derek Ramsey,Sudeste,Tecnologia,Impressora,10,2623.51,26235.1,7308.9
+ORD0135,2024-10-10,Madison Moody,Sudeste,Papelaria,Caneta,1,702.56,702.56,115.74
+ORD0136,2025-02-14,Christopher Wells,Sul,Móveis,Estante,6,556.91,3341.46,666.01
+ORD0137,2025-04-13,Katelyn Black,Centro-Oeste,Tecnologia,Mouse,5,2888.65,14443.25,3024.83
+ORD0138,2025-04-20,Sandra Elliott,Norte,Tecnologia,Monitor,10,1422.68,14226.8,722.08
+ORD0139,2025-05-27,Miguel Beltran,Norte,Móveis,Cadeira,4,549.51,2198.04,284.56
+ORD0140,2025-01-12,Benjamin Wood,Centro-Oeste,Papelaria,Caneta,2,994.22,1988.44,161.79
+ORD0141,2025-04-15,Heather Sherman,Sul,Móveis,Estante,4,1915.64,7662.56,648.82
+ORD0142,2025-03-02,Stephen Fischer,Norte,Papelaria,Papel A4,1,645.38,645.38,108.25
+ORD0143,2025-05-08,Amy Hernandez,Sudeste,Papelaria,Caderno,2,1124.48,2248.96,410.49
+ORD0144,2024-08-07,Taylor Ortiz,Norte,Móveis,Estante,9,2353.25,21179.25,4376.24
+ORD0145,2024-09-24,Katie Harrison,Norte,Papelaria,Caderno,10,1118.42,11184.2,2406.9
+ORD0146,2024-12-04,Marisa Marshall,Norte,Tecnologia,Notebook,10,2893.92,28939.2,7526.92
+ORD0147,2025-06-09,Bryan Henson,Centro-Oeste,Móveis,Mesa,3,2714.68,8144.04,1730.12
+ORD0148,2025-05-25,Cynthia Shaffer,Norte,Papelaria,Caneta,9,566.68,5100.12,361.25
+ORD0149,2024-09-19,Andrew Parks,Centro-Oeste,Móveis,Estante,3,2523.78,7571.34,631.52
+ORD0150,2024-10-01,David Aguirre,Norte,Papelaria,Caneta,1,2858.59,2858.59,288.62
+ORD0151,2024-12-07,Matthew Wright,Centro-Oeste,Tecnologia,Monitor,2,581.69,1163.38,294.29
+ORD0152,2025-06-06,Mary Vargas,Centro-Oeste,Tecnologia,Impressora,2,2406.84,4813.68,1437.65
+ORD0153,2024-11-07,Keith Wade,Norte,Móveis,Cadeira,3,1964.39,5893.17,862.78
+ORD0154,2024-12-04,Zachary Bernard,Sudeste,Papelaria,Caneta,10,161.74,1617.4,404.5
+ORD0155,2025-01-13,Dalton Morgan,Nordeste,Papelaria,Papel A4,3,584.2,1752.6,336.3
+ORD0156,2025-02-26,Sarah Mcneil,Nordeste,Móveis,Cadeira,7,984.74,6893.18,783.86
+ORD0157,2024-08-26,Shawn Carter,Norte,Papelaria,Caderno,10,1985.98,19859.8,4172.66
+ORD0158,2025-02-06,Stephen Ortiz,Centro-Oeste,Móveis,Mesa,3,1979.17,5937.51,1100.32
+ORD0159,2024-12-06,Christine Santos,Norte,Tecnologia,Impressora,6,2810.52,16863.12,3135.82
+ORD0160,2025-06-02,Tyler Greer,Sul,Tecnologia,Mouse,2,279.69,559.38,39.56
+ORD0161,2025-07-02,Jacqueline Ramos,Sudeste,Papelaria,Caneta,10,1428.81,14288.1,1292.75
+ORD0162,2024-08-21,Anthony Hanson,Norte,Tecnologia,Mouse,7,206.0,1442.0,241.27
+ORD0163,2024-10-01,Jeffrey Bishop,Sudeste,Móveis,Estante,7,1353.7,9475.9,2313.66
+ORD0164,2024-09-20,Charlene Ferguson,Sudeste,Móveis,Estante,9,621.69,5595.21,605.45
+ORD0165,2025-01-27,Michelle Vazquez,Sudeste,Papelaria,Caneta,4,314.86,1259.44,284.71
+ORD0166,2024-08-11,Sarah Peterson,Nordeste,Móveis,Estante,1,2555.08,2555.08,499.67
+ORD0167,2024-12-08,Laura Garza,Sudeste,Papelaria,Papel A4,2,2577.93,5155.86,366.47
+ORD0168,2024-11-17,Katrina Thomas,Sudeste,Papelaria,Papel A4,4,1795.51,7182.04,1582.47
+ORD0169,2024-07-28,Krista Bishop,Sul,Móveis,Mesa,7,1198.8,8391.6,1082.55
+ORD0170,2025-07-02,Samuel Williams,Sul,Móveis,Estante,6,1789.41,10736.46,1662.31
+ORD0171,2025-06-24,Tracy Thomas,Centro-Oeste,Móveis,Mesa,1,2727.06,2727.06,485.38
+ORD0172,2024-08-27,Jessica Hunter,Sudeste,Papelaria,Caneta,9,551.6,4964.4,660.65
+ORD0173,2025-03-07,Melissa Reyes,Nordeste,Móveis,Estante,5,196.29,981.45,55.65
+ORD0174,2025-02-16,Jessica Bailey,Nordeste,Tecnologia,Impressora,2,2094.13,4188.26,521.73
+ORD0175,2025-06-27,Katrina Mclean,Norte,Móveis,Cadeira,4,1852.77,7411.08,1031.24
+ORD0176,2024-11-07,Sophia Schmidt MD,Nordeste,Tecnologia,Impressora,4,1107.27,4429.08,794.15
+ORD0177,2024-10-28,Evelyn Hanna,Sudeste,Tecnologia,Monitor,2,1908.64,3817.28,435.78
+ORD0178,2024-07-29,Brandon Archer,Norte,Papelaria,Papel A4,10,819.4,8194.0,831.88
+ORD0179,2025-05-01,Brittney Jones,Sudeste,Papelaria,Papel A4,7,43.46,304.22,78.93
+ORD0180,2025-04-16,Heather Dominguez,Sul,Papelaria,Papel A4,3,966.24,2898.72,638.03
+ORD0181,2024-11-05,Nathan Espinoza,Norte,Papelaria,Caneta,3,352.38,1057.14,146.84
+ORD0182,2025-03-13,David Fisher,Nordeste,Papelaria,Caneta,10,2997.64,29976.4,2639.83
+ORD0183,2025-07-18,Mrs. Sherry Murillo PhD,Nordeste,Móveis,Cadeira,4,288.22,1152.88,83.08
+ORD0184,2024-08-03,Heather Mcknight,Nordeste,Tecnologia,Mouse,6,2336.17,14017.02,3060.6
+ORD0185,2024-07-24,Herbert Fleming,Centro-Oeste,Tecnologia,Mouse,10,197.11,1971.1,313.74
+ORD0186,2025-03-13,Andrew Velez,Sudeste,Tecnologia,Notebook,1,1840.01,1840.01,346.67
+ORD0187,2025-02-24,Eric Hunt,Norte,Papelaria,Papel A4,9,1355.58,12200.22,2470.66
+ORD0188,2025-02-04,Joseph Melendez,Nordeste,Móveis,Mesa,3,861.41,2584.23,424.13
+ORD0189,2024-10-14,Vanessa Lucas DDS,Sudeste,Tecnologia,Impressora,6,329.08,1974.48,439.09
+ORD0190,2024-10-12,Stephanie Taylor,Norte,Móveis,Estante,2,1560.11,3120.22,782.95
+ORD0191,2025-03-13,Timothy Owen,Centro-Oeste,Móveis,Estante,7,178.2,1247.4,178.15
+ORD0192,2024-12-06,Robert Murillo,Centro-Oeste,Papelaria,Papel A4,6,2876.42,17258.52,3379.17
+ORD0193,2024-09-07,Maria Montes,Centro-Oeste,Tecnologia,Mouse,10,970.66,9706.6,2082.77
+ORD0194,2025-01-24,Michael Smith,Centro-Oeste,Tecnologia,Mouse,1,1409.99,1409.99,148.3
+ORD0195,2024-12-24,Donna King,Sudeste,Papelaria,Papel A4,4,2524.13,10096.52,2259.13
+ORD0196,2025-07-18,Jennifer Brown,Norte,Papelaria,Caneta,8,406.08,3248.64,196.09
+ORD0197,2025-03-09,Kenneth Combs,Sudeste,Tecnologia,Mouse,2,2347.01,4694.02,477.72
+ORD0198,2025-04-29,Donna Thomas,Centro-Oeste,Móveis,Cadeira,5,34.32,171.6,12.44
+ORD0199,2024-12-15,Rachel Cummings,Norte,Papelaria,Papel A4,9,2834.85,25513.65,5378.31
+ORD0200,2024-11-16,Lisa Lewis,Sul,Papelaria,Papel A4,1,2324.3,2324.3,143.23
+ORD0201,2025-07-17,Ashley Patton,Centro-Oeste,Móveis,Mesa,4,2226.76,8907.04,2144.75
+ORD0202,2024-07-27,Lori Griffin,Sudeste,Móveis,Mesa,5,2665.4,13327.0,755.82
+ORD0203,2024-07-24,Jessica Gardner,Norte,Móveis,Cadeira,1,2474.13,2474.13,413.29
+ORD0204,2025-02-19,Vincent Chavez,Norte,Papelaria,Caderno,5,2702.81,13514.05,2187.07
+ORD0205,2025-01-23,Kelly Golden,Centro-Oeste,Móveis,Mesa,3,2469.4,7408.2,1274.88
+ORD0206,2024-11-06,Ashley Flores,Centro-Oeste,Móveis,Cadeira,6,1805.63,10833.78,1238.89
+ORD0207,2024-11-14,Angela Church,Centro-Oeste,Tecnologia,Mouse,1,300.88,300.88,27.89
+ORD0208,2025-02-03,Gavin Sosa,Centro-Oeste,Papelaria,Caderno,7,1353.8,9476.6,1768.23
+ORD0209,2025-03-14,Troy King,Sul,Papelaria,Papel A4,9,87.33,785.97,181.1
+ORD0210,2025-01-26,Daniel Dougherty,Centro-Oeste,Móveis,Mesa,6,2304.46,13826.76,4045.74
+ORD0211,2025-05-17,John Ware,Nordeste,Móveis,Mesa,5,872.0,4360.0,582.41
+ORD0212,2024-11-26,Don Gardner,Centro-Oeste,Móveis,Estante,2,1606.89,3213.78,236.07
+ORD0213,2024-11-13,Susan Lee,Centro-Oeste,Móveis,Estante,7,356.17,2493.19,621.68
+ORD0214,2024-09-17,Melanie House,Sul,Papelaria,Caderno,4,2419.03,9676.12,2848.86
+ORD0215,2024-09-20,Brittney Jones,Sudeste,Tecnologia,Mouse,9,877.07,7893.63,651.03
+ORD0216,2024-12-16,Erin Ramos,Centro-Oeste,Móveis,Mesa,3,881.78,2645.34,360.11
+ORD0217,2024-08-21,Jason Marsh,Norte,Tecnologia,Monitor,7,2414.43,16901.01,4277.82
+ORD0218,2024-11-17,Miguel Moran,Nordeste,Papelaria,Caderno,8,121.69,973.52,173.77
+ORD0219,2025-03-09,Devin Campbell,Sul,Papelaria,Caneta,3,2653.37,7960.11,2072.71
+ORD0220,2024-11-25,Jessica Moore,Sudeste,Móveis,Estante,1,2341.13,2341.13,672.8
+ORD0221,2025-02-27,Kevin Austin,Nordeste,Móveis,Mesa,10,739.39,7393.9,1029.28
+ORD0222,2024-09-26,Ronald Cannon,Norte,Papelaria,Caderno,4,1832.87,7331.48,1287.28
+ORD0223,2025-06-24,Timothy Powell,Nordeste,Tecnologia,Mouse,5,1705.16,8525.8,1605.6
+ORD0224,2024-12-06,Courtney Garcia,Sul,Móveis,Mesa,8,613.51,4908.08,539.46
+ORD0225,2024-10-08,Christina Stephens,Sudeste,Papelaria,Caneta,6,2955.85,17735.1,3661.15
+ORD0226,2024-11-29,Peter Peterson,Centro-Oeste,Tecnologia,Monitor,8,1171.69,9373.52,2168.4
+ORD0227,2025-02-03,Susan Johnson,Centro-Oeste,Móveis,Cadeira,2,770.95,1541.9,259.65
+ORD0228,2024-10-11,John Melton,Centro-Oeste,Papelaria,Papel A4,8,2022.87,16182.96,1021.24
+ORD0229,2025-04-24,Michael Freeman,Centro-Oeste,Tecnologia,Monitor,4,2046.13,8184.52,1496.41
+ORD0230,2025-01-08,Mary Stafford,Centro-Oeste,Móveis,Cadeira,5,2801.09,14005.45,2845.68
+ORD0231,2025-05-20,James Smith,Nordeste,Papelaria,Caneta,9,565.18,5086.62,1145.67
+ORD0232,2025-04-22,Philip Lloyd,Sul,Tecnologia,Monitor,5,1583.47,7917.35,2226.84
+ORD0233,2024-11-25,Chelsey Tyler,Sul,Tecnologia,Impressora,9,1523.79,13714.11,3177.52
+ORD0234,2025-04-02,Ann Hendricks,Centro-Oeste,Papelaria,Papel A4,8,1828.31,14626.48,2112.24
+ORD0235,2024-09-24,Amy Watkins,Norte,Móveis,Estante,5,1466.61,7333.05,901.54
+ORD0236,2025-03-07,Patricia Bennett,Centro-Oeste,Móveis,Mesa,6,2793.96,16763.76,4585.49
+ORD0237,2024-12-28,Sharon Macdonald,Norte,Papelaria,Caderno,4,606.19,2424.76,249.49
+ORD0238,2024-10-09,Caitlin Harvey,Nordeste,Tecnologia,Impressora,10,1144.68,11446.8,758.42
+ORD0239,2025-07-10,Robin Keith,Sudeste,Papelaria,Papel A4,2,326.11,652.22,53.91
+ORD0240,2025-01-06,Samuel Hurley,Centro-Oeste,Tecnologia,Mouse,3,607.53,1822.59,189.12
+ORD0241,2025-07-19,Robert Hancock,Nordeste,Tecnologia,Monitor,1,1355.56,1355.56,189.58
+ORD0242,2025-04-27,Kristin Bennett,Sudeste,Papelaria,Papel A4,3,1718.06,5154.18,1357.33
+ORD0243,2025-05-18,Margaret Brown,Sudeste,Móveis,Estante,2,2072.0,4144.0,884.47
+ORD0244,2024-09-05,Audrey Sharp,Norte,Móveis,Estante,7,1624.0,11368.0,2939.06
+ORD0245,2025-03-11,Christian Fowler,Sudeste,Móveis,Cadeira,7,519.81,3638.67,421.52
+ORD0246,2024-12-25,Erica Galvan,Sul,Tecnologia,Notebook,2,2489.85,4979.7,335.4
+ORD0247,2024-08-11,Alex Brennan,Sudeste,Papelaria,Papel A4,4,1859.05,7436.2,545.9
+ORD0248,2024-11-01,David Patterson,Centro-Oeste,Tecnologia,Notebook,9,2887.21,25984.89,6949.26
+ORD0249,2024-08-11,Courtney Ramirez,Norte,Papelaria,Caneta,6,1049.94,6299.64,662.07
+ORD0250,2025-06-26,Timothy Harper,Sul,Tecnologia,Mouse,4,1556.51,6226.04,822.02
+ORD0251,2025-02-17,Angela Hicks,Norte,Papelaria,Papel A4,5,101.14,505.7,51.26
+ORD0252,2024-11-02,Tara Wright,Sul,Papelaria,Papel A4,3,2270.98,6812.94,649.87
+ORD0253,2025-04-17,Angela Lewis,Sudeste,Papelaria,Caneta,2,25.85,51.7,6.36
+ORD0254,2025-03-02,Sarah Anderson,Centro-Oeste,Papelaria,Papel A4,3,564.44,1693.32,138.77
+ORD0255,2025-05-01,Pamela Gonzalez DDS,Sul,Tecnologia,Notebook,3,187.78,563.34,165.08
+ORD0256,2024-09-17,Kimberly Christensen,Sudeste,Móveis,Mesa,7,2517.77,17624.39,3258.61
+ORD0257,2025-04-07,Carl Ryan,Norte,Móveis,Mesa,7,1843.71,12905.97,1898.22
+ORD0258,2025-02-04,Teresa Soto,Norte,Tecnologia,Mouse,3,1809.79,5429.37,1015.7
+ORD0259,2024-08-18,Patrick Mcgee,Norte,Papelaria,Papel A4,2,115.93,231.86,38.18
+ORD0260,2024-11-06,Adam Moore,Norte,Móveis,Estante,1,2781.83,2781.83,534.52
+ORD0261,2025-01-04,Mr. Paul Reynolds,Sudeste,Papelaria,Caneta,9,1078.28,9704.52,2675.31
+ORD0262,2024-11-25,Nicole Stone,Nordeste,Tecnologia,Impressora,7,416.9,2918.3,491.18
+ORD0263,2024-09-02,Kelsey Lewis,Centro-Oeste,Móveis,Mesa,2,2419.41,4838.82,504.29
+ORD0264,2024-10-11,Donald Barker,Sudeste,Móveis,Cadeira,1,1902.24,1902.24,388.72
+ORD0265,2025-06-20,Alicia Dixon,Sudeste,Papelaria,Caderno,4,2695.15,10780.6,1342.28
+ORD0266,2024-07-28,Jonathan Blevins,Centro-Oeste,Papelaria,Caderno,2,1612.31,3224.62,784.17
+ORD0267,2025-02-08,Joshua Harding,Nordeste,Tecnologia,Monitor,2,927.47,1854.94,420.59
+ORD0268,2024-08-03,Samantha Pratt,Sul,Papelaria,Caneta,8,1595.58,12764.64,853.61
+ORD0269,2024-12-20,Sherry Lawson,Sudeste,Papelaria,Papel A4,4,2114.79,8459.16,440.22
+ORD0270,2025-06-23,Kimberly Murray,Nordeste,Móveis,Estante,1,2571.16,2571.16,432.34
+ORD0271,2024-08-12,Andrew Patrick,Sudeste,Papelaria,Caderno,7,1514.03,10598.21,575.33
+ORD0272,2025-04-07,David Howard Jr.,Sudeste,Papelaria,Papel A4,8,1171.17,9369.36,965.93
+ORD0273,2024-11-16,Benjamin Johnson,Sul,Móveis,Estante,8,2215.84,17726.72,4127.96
+ORD0274,2025-07-07,Donna Vargas,Sul,Papelaria,Caderno,2,2151.7,4303.4,877.98
+ORD0275,2025-05-24,Jonathan Vasquez,Nordeste,Papelaria,Papel A4,9,1800.59,16205.31,4001.88
+ORD0276,2025-01-28,Linda Wilson,Norte,Papelaria,Caderno,5,526.61,2633.05,745.88
+ORD0277,2024-12-03,Patricia Chen,Centro-Oeste,Móveis,Estante,3,376.84,1130.52,263.29
+ORD0278,2024-11-10,Angelica Smith,Sul,Papelaria,Caderno,2,1710.45,3420.9,476.14
+ORD0279,2025-03-31,Holly Turner,Norte,Papelaria,Caderno,1,1600.36,1600.36,285.14
+ORD0280,2024-10-17,Anthony Parker,Centro-Oeste,Tecnologia,Monitor,1,355.56,355.56,30.12
+ORD0281,2024-11-25,Brian Knox,Sudeste,Móveis,Cadeira,7,1277.93,8945.51,727.18
+ORD0282,2024-08-01,Michael Lawrence,Norte,Móveis,Estante,6,2745.21,16471.26,2621.85
+ORD0283,2025-05-05,David Herman,Centro-Oeste,Móveis,Cadeira,9,604.12,5437.08,1544.28
+ORD0284,2024-07-28,Howard Wagner,Sul,Móveis,Cadeira,4,554.74,2218.96,543.77
+ORD0285,2025-01-15,Diana Walter,Centro-Oeste,Móveis,Cadeira,2,1641.88,3283.76,675.97
+ORD0286,2025-01-01,Ashley Garcia,Norte,Tecnologia,Mouse,4,2348.13,9392.52,1535.63
+ORD0287,2024-08-19,Austin Hahn,Centro-Oeste,Tecnologia,Notebook,2,1600.65,3201.3,264.23
+ORD0288,2025-01-08,Ann Petty,Sudeste,Tecnologia,Notebook,6,450.42,2702.52,292.65
+ORD0289,2025-02-14,Andrew Zuniga,Norte,Móveis,Mesa,1,2403.85,2403.85,217.85
+ORD0290,2025-06-17,Katherine Kim,Sudeste,Papelaria,Caderno,7,963.03,6741.21,1970.93
+ORD0291,2024-09-02,Michael Smith,Sudeste,Papelaria,Caneta,5,237.13,1185.65,146.01
+ORD0292,2024-10-30,Lauren Grant,Nordeste,Tecnologia,Impressora,5,2931.65,14658.25,3214.42
+ORD0293,2024-09-07,Seth Morales,Nordeste,Móveis,Estante,5,94.77,473.85,97.19
+ORD0294,2025-01-30,Shelly Ponce,Nordeste,Móveis,Estante,3,2237.28,6711.84,1933.93
+ORD0295,2025-01-26,Brendan Mosley,Norte,Tecnologia,Impressora,5,2302.61,11513.05,1726.63
+ORD0296,2024-12-13,Jessica Mack,Sudeste,Papelaria,Caderno,8,952.31,7618.48,2278.27
+ORD0297,2025-06-09,Kaitlyn Murphy,Sudeste,Móveis,Mesa,1,360.56,360.56,28.74
+ORD0298,2025-01-08,Dorothy Cameron,Norte,Móveis,Estante,1,578.67,578.67,84.77
+ORD0299,2024-12-25,Elizabeth Lopez,Sudeste,Móveis,Mesa,5,1477.99,7389.95,689.18
+ORD0300,2025-04-12,Kevin Hart,Norte,Móveis,Cadeira,10,1138.24,11382.4,1797.17
+ORD0301,2024-11-14,Larry King,Sudeste,Papelaria,Caneta,4,2002.33,8009.32,1524.98
+ORD0302,2025-06-04,Brandon Wagner,Centro-Oeste,Papelaria,Caderno,2,1879.47,3758.94,711.06
+ORD0303,2024-08-04,Amy Velazquez PhD,Nordeste,Tecnologia,Impressora,9,166.92,1502.28,268.04
+ORD0304,2024-08-27,Peter Bell,Centro-Oeste,Móveis,Cadeira,4,521.44,2085.76,230.16
+ORD0305,2025-03-23,Larry Hall,Nordeste,Papelaria,Caderno,6,1543.06,9258.36,2616.83
+ORD0306,2024-08-16,Christopher Sanchez,Centro-Oeste,Papelaria,Caneta,5,1234.48,6172.4,1737.52
+ORD0307,2025-05-04,Jill Gordon,Sul,Tecnologia,Mouse,7,2518.33,17628.31,3396.33
+ORD0308,2024-10-28,Elizabeth Webster,Sul,Móveis,Mesa,5,77.49,387.45,55.7
+ORD0309,2025-07-05,Mark Ellis,Norte,Papelaria,Papel A4,3,1038.82,3116.46,439.43
+ORD0310,2025-01-18,Michael Pacheco,Norte,Tecnologia,Notebook,10,1520.35,15203.5,813.67
+ORD0311,2024-12-28,Matthew Murray,Sudeste,Móveis,Mesa,7,722.44,5057.08,1390.89
+ORD0312,2025-03-05,Albert May,Sudeste,Papelaria,Caneta,2,227.71,455.42,83.33
+ORD0313,2025-05-04,Lisa Herring,Norte,Papelaria,Papel A4,7,2567.89,17975.23,4264.03
+ORD0314,2024-10-06,Lawrence Montes,Norte,Móveis,Mesa,10,1447.02,14470.2,1287.73
+ORD0315,2024-12-14,Jennifer Gardner,Norte,Papelaria,Caneta,9,1022.31,9200.79,2601.98
+ORD0316,2025-06-04,Jerry Duffy,Sudeste,Tecnologia,Monitor,9,118.53,1066.77,144.59
+ORD0317,2024-08-17,Christina Murray,Sudeste,Móveis,Mesa,7,2504.35,17530.45,1067.73
+ORD0318,2024-12-26,Mario Jackson Jr.,Centro-Oeste,Tecnologia,Monitor,10,735.58,7355.8,1171.15
+ORD0319,2024-10-24,Christian Vincent,Nordeste,Papelaria,Caderno,6,605.52,3633.12,788.68
+ORD0320,2024-12-03,William Lopez,Sudeste,Tecnologia,Monitor,6,2687.5,16125.0,1596.55
+ORD0321,2025-06-23,Tyler Bell,Sudeste,Móveis,Mesa,7,2043.84,14306.88,2912.11
+ORD0322,2024-11-29,Katie Edwards,Norte,Móveis,Estante,9,1306.48,11758.32,2729.57
+ORD0323,2025-05-26,Travis Smith,Sul,Papelaria,Papel A4,2,1828.91,3657.82,997.99
+ORD0324,2025-06-22,Jennifer Garcia,Nordeste,Tecnologia,Mouse,2,615.01,1230.02,95.46
+ORD0325,2025-04-16,Andrea Wright,Norte,Móveis,Estante,9,2138.29,19244.61,3298.31
+ORD0326,2025-04-06,Allison Parker,Centro-Oeste,Móveis,Estante,2,2465.5,4931.0,715.35
+ORD0327,2025-03-07,Michelle Wallace,Sudeste,Móveis,Mesa,4,310.23,1240.92,164.42
+ORD0328,2025-06-13,Shannon Vaughn,Sudeste,Papelaria,Caneta,2,80.81,161.62,18.24
+ORD0329,2024-09-19,Wanda Johnson,Centro-Oeste,Móveis,Cadeira,3,2223.78,6671.34,1257.04
+ORD0330,2024-10-10,Kimberly Ballard,Sul,Papelaria,Papel A4,8,2216.54,17732.32,1783.14
+ORD0331,2024-09-12,Makayla Randolph,Sudeste,Papelaria,Caderno,1,2686.97,2686.97,413.05
+ORD0332,2025-03-04,Alan Coleman,Norte,Tecnologia,Mouse,6,1117.6,6705.6,614.38
+ORD0333,2024-11-07,John Hanson,Sul,Tecnologia,Monitor,7,2694.85,18863.95,1363.28
+ORD0334,2025-01-29,Erica Williamson,Centro-Oeste,Papelaria,Papel A4,9,2668.35,24015.15,2413.64
+ORD0335,2025-07-02,Timothy Gates,Norte,Papelaria,Papel A4,5,2835.55,14177.75,2969.12
+ORD0336,2024-07-27,Tony Livingston,Centro-Oeste,Móveis,Mesa,6,554.21,3325.26,740.86
+ORD0337,2024-11-22,Andrea Harrison,Sul,Móveis,Mesa,5,2687.13,13435.65,2408.64
+ORD0338,2024-09-09,Mercedes Mcdonald,Norte,Móveis,Estante,4,2095.85,8383.4,1189.76
+ORD0339,2024-08-06,Mark Williams,Sudeste,Móveis,Cadeira,1,342.76,342.76,51.0
+ORD0340,2024-12-04,Mariah Obrien,Nordeste,Tecnologia,Mouse,4,2468.14,9872.56,1001.76
+ORD0341,2025-01-24,Shannon Holden,Sul,Tecnologia,Impressora,3,2978.82,8936.46,674.11
+ORD0342,2024-11-29,Jennifer Mack,Centro-Oeste,Tecnologia,Impressora,6,1754.38,10526.28,809.52
+ORD0343,2025-06-24,Martin Robinson,Nordeste,Móveis,Estante,8,1300.52,10404.16,1464.85
+ORD0344,2025-02-04,Daniel Harrison,Nordeste,Móveis,Estante,1,2318.82,2318.82,336.26
+ORD0345,2024-11-10,Raymond White,Sudeste,Móveis,Cadeira,9,2189.16,19702.44,4331.15
+ORD0346,2024-10-23,John Kim,Centro-Oeste,Papelaria,Papel A4,3,246.12,738.36,173.58
+ORD0347,2025-04-29,Justin Scott,Norte,Papelaria,Caderno,10,2508.52,25085.2,4214.79
+ORD0348,2024-10-14,Amanda Kirk,Sudeste,Tecnologia,Monitor,9,2862.99,25766.91,3606.24
+ORD0349,2024-10-25,Marcus Sanders,Nordeste,Tecnologia,Notebook,3,1604.31,4812.93,476.45
+ORD0350,2025-05-19,Matthew Snyder,Sudeste,Móveis,Cadeira,1,491.06,491.06,116.41
+ORD0351,2025-02-04,Erin Mclaughlin,Sudeste,Tecnologia,Impressora,10,2122.15,21221.5,2586.95
+ORD0352,2025-01-13,Ruth Glenn,Nordeste,Tecnologia,Impressora,5,1044.64,5223.2,1447.79
+ORD0353,2024-12-09,Paul Chen,Nordeste,Móveis,Cadeira,7,1020.49,7143.43,1949.19
+ORD0354,2025-04-22,Mark Taylor,Centro-Oeste,Papelaria,Papel A4,7,1117.49,7822.43,1660.47
+ORD0355,2025-03-17,Jonathan Adkins,Nordeste,Tecnologia,Impressora,2,2411.3,4822.6,1155.72
+ORD0356,2025-06-16,Joshua Dean,Sul,Tecnologia,Notebook,2,1751.69,3503.38,189.94
+ORD0357,2024-07-28,Robert Campbell,Nordeste,Móveis,Cadeira,3,2016.29,6048.87,1219.95
+ORD0358,2024-09-05,Kelly Small,Sudeste,Móveis,Cadeira,2,65.49,130.98,35.53
+ORD0359,2024-12-21,Lindsey Miller,Sudeste,Tecnologia,Impressora,7,2522.86,17660.02,5080.29
+ORD0360,2024-11-03,Michael James,Nordeste,Tecnologia,Impressora,2,1308.99,2617.98,763.63
+ORD0361,2024-12-05,Melissa Robinson,Sul,Tecnologia,Mouse,9,1874.37,16869.33,1149.24
+ORD0362,2025-06-11,Kristy Hunter,Norte,Papelaria,Caneta,10,2966.62,29666.2,7026.22
+ORD0363,2024-08-09,Douglas Allen,Centro-Oeste,Tecnologia,Impressora,7,2391.88,16743.16,1861.58
+ORD0364,2024-11-28,Lee Blackwell,Sul,Móveis,Cadeira,7,207.78,1454.46,368.7
+ORD0365,2025-04-12,Lisa Chapman,Sudeste,Papelaria,Caderno,1,940.45,940.45,119.91
+ORD0366,2025-02-25,David Nguyen,Sudeste,Tecnologia,Impressora,6,2747.7,16486.2,3206.57
+ORD0367,2024-09-04,Dorothy Glover,Norte,Móveis,Estante,4,2394.75,9579.0,2035.86
+ORD0368,2024-08-18,Harold Johnson,Centro-Oeste,Papelaria,Papel A4,7,2046.35,14324.45,3190.49
+ORD0369,2024-12-23,Paul Mejia,Sul,Móveis,Cadeira,2,480.46,960.92,253.51
+ORD0370,2025-01-18,Jim Lee,Sudeste,Papelaria,Papel A4,2,300.02,600.04,129.29
+ORD0371,2025-03-06,Michael Rogers,Norte,Tecnologia,Notebook,1,434.26,434.26,124.07
+ORD0372,2025-04-05,Billy Brady,Sul,Móveis,Mesa,2,565.01,1130.02,222.88
+ORD0373,2025-07-03,Tonya Giles,Sul,Papelaria,Papel A4,5,892.79,4463.95,368.19
+ORD0374,2024-11-06,Michael Ruiz,Sul,Tecnologia,Mouse,5,1026.77,5133.85,911.83
+ORD0375,2024-10-02,Paul Bradshaw,Norte,Tecnologia,Impressora,7,859.29,6015.03,1241.49
+ORD0376,2025-05-27,Joseph Morrison,Norte,Papelaria,Caderno,1,2595.04,2595.04,618.71
+ORD0377,2024-11-28,Christina Quinn,Nordeste,Tecnologia,Impressora,9,660.16,5941.44,342.45
+ORD0378,2025-04-16,Jessica Wallace,Nordeste,Móveis,Mesa,4,1558.12,6232.48,591.28
+ORD0379,2025-03-14,Christopher Russo,Nordeste,Papelaria,Caderno,4,2642.57,10570.28,859.39
+ORD0380,2024-08-02,Mark Austin,Sudeste,Tecnologia,Monitor,8,1018.39,8147.12,2386.6
+ORD0381,2024-12-28,Allison Rivera,Sul,Móveis,Mesa,3,568.01,1704.03,260.99
+ORD0382,2025-04-20,Stephanie Hull,Norte,Móveis,Estante,6,513.05,3078.3,275.57
+ORD0383,2024-11-10,Suzanne Randall,Nordeste,Tecnologia,Mouse,3,1881.95,5645.85,634.88
+ORD0384,2024-11-16,Michelle Harris,Sul,Tecnologia,Notebook,10,730.42,7304.2,1084.31
+ORD0385,2024-07-26,Brian Ortiz,Centro-Oeste,Tecnologia,Monitor,9,2875.27,25877.43,2508.33
+ORD0386,2024-09-14,Corey Delacruz,Norte,Móveis,Mesa,5,69.51,347.55,57.1
+ORD0387,2024-11-29,Jamie Murphy,Nordeste,Papelaria,Caneta,4,2262.37,9049.48,2094.46
+ORD0388,2025-01-20,Natalie Taylor,Sudeste,Papelaria,Caneta,10,2725.36,27253.6,2458.96
+ORD0389,2025-06-22,Brandon Bentley,Centro-Oeste,Tecnologia,Impressora,7,2040.64,14284.48,3172.73
+ORD0390,2025-06-17,Melissa Joseph,Sul,Móveis,Mesa,8,1748.24,13985.92,2581.71
+ORD0391,2024-11-15,Renee Ford,Sudeste,Tecnologia,Mouse,6,2533.27,15199.62,3662.69
+ORD0392,2025-01-10,Darren Kelly,Centro-Oeste,Tecnologia,Monitor,2,375.66,751.32,81.36
+ORD0393,2025-05-17,Mrs. Jamie Delgado,Sudeste,Móveis,Cadeira,3,1920.88,5762.64,1316.79
+ORD0394,2024-10-17,Jeffery Bentley,Nordeste,Papelaria,Caderno,10,977.47,9774.7,2035.11
+ORD0395,2025-03-24,Peter Livingston,Nordeste,Móveis,Estante,3,417.51,1252.53,159.81
+ORD0396,2024-11-29,Ronald Richards Jr.,Centro-Oeste,Móveis,Estante,8,640.47,5123.76,1428.1
+ORD0397,2025-07-14,Jennifer Underwood,Norte,Tecnologia,Monitor,10,2966.7,29667.0,8482.7
+ORD0398,2025-07-13,Thomas Lawson,Centro-Oeste,Tecnologia,Monitor,4,1412.57,5650.28,1505.5
+ORD0399,2024-11-05,Carl Robinson,Nordeste,Papelaria,Caderno,3,1561.43,4684.29,503.79
+ORD0400,2025-06-27,Thomas Calderon,Sudeste,Papelaria,Caneta,1,527.18,527.18,121.52
+ORD0401,2025-01-12,Brandy Saunders,Centro-Oeste,Papelaria,Caderno,8,1926.06,15408.48,2350.22
+ORD0402,2024-11-21,Alexander Sullivan,Norte,Tecnologia,Mouse,8,154.45,1235.6,215.89
+ORD0403,2024-11-22,Henry Cooper,Sudeste,Tecnologia,Mouse,4,1889.97,7559.88,1056.14
+ORD0404,2025-02-22,Kenneth Simmons,Sul,Tecnologia,Impressora,6,2922.74,17536.44,3780.6
+ORD0405,2025-06-25,Patrick Osborne,Sudeste,Tecnologia,Notebook,1,978.34,978.34,252.36
+ORD0406,2024-11-29,Jesus Matthews,Centro-Oeste,Papelaria,Caderno,5,527.07,2635.35,179.72
+ORD0407,2025-04-09,Adam Ibarra,Sul,Tecnologia,Impressora,9,599.56,5396.04,1548.5
+ORD0408,2025-04-14,Danielle Young,Norte,Tecnologia,Notebook,5,1335.16,6675.8,926.27
+ORD0409,2025-04-14,Zachary Hardin,Centro-Oeste,Tecnologia,Mouse,8,2809.21,22473.68,5998.73
+ORD0410,2025-01-21,Misty Miller,Nordeste,Papelaria,Caderno,4,2659.82,10639.28,2990.86
+ORD0411,2025-06-11,Michael Obrien,Centro-Oeste,Papelaria,Papel A4,3,216.23,648.69,108.23
+ORD0412,2025-04-03,Cynthia Blake,Sudeste,Papelaria,Papel A4,3,2524.12,7572.36,935.4
+ORD0413,2025-02-10,Candace Patel,Sudeste,Tecnologia,Monitor,7,835.31,5847.17,667.13
+ORD0414,2025-07-22,Christina Williams,Norte,Móveis,Estante,9,506.66,4559.94,1098.13
+ORD0415,2025-01-29,Theresa Cruz,Centro-Oeste,Móveis,Estante,9,914.62,8231.58,1070.76
+ORD0416,2025-06-18,Eric Smith,Centro-Oeste,Papelaria,Caneta,1,2095.31,2095.31,378.47
+ORD0417,2025-02-24,Amy Alexander,Nordeste,Papelaria,Caderno,5,799.7,3998.5,1082.46
+ORD0418,2025-04-02,Karen Bond,Nordeste,Papelaria,Papel A4,6,1089.79,6538.74,730.08
+ORD0419,2024-10-30,Angela Chung,Sudeste,Móveis,Mesa,8,575.64,4605.12,1004.98
+ORD0420,2024-10-04,Sandy Massey,Norte,Tecnologia,Mouse,5,1872.14,9360.7,1050.93
+ORD0421,2025-04-15,Maria Mercer,Sudeste,Tecnologia,Monitor,10,774.26,7742.6,677.61
+ORD0422,2024-11-25,Daniel Fields,Norte,Tecnologia,Impressora,5,1213.28,6066.4,1162.8
+ORD0423,2025-01-24,Paul Schaefer,Norte,Móveis,Cadeira,1,1992.72,1992.72,214.05
+ORD0424,2025-06-30,Jacqueline Murphy,Centro-Oeste,Móveis,Mesa,4,507.86,2031.44,136.51
+ORD0425,2025-02-14,Jennifer Conway,Nordeste,Móveis,Estante,4,119.84,479.36,53.33
+ORD0426,2025-03-11,Melody Norton,Sudeste,Papelaria,Caderno,8,2733.69,21869.52,1145.73
+ORD0427,2024-08-27,Brian Taylor,Centro-Oeste,Móveis,Cadeira,1,912.53,912.53,234.06
+ORD0428,2025-06-08,David Huber,Centro-Oeste,Móveis,Estante,3,68.04,204.12,47.67
+ORD0429,2024-12-28,Antonio Perez,Sudeste,Móveis,Cadeira,4,724.84,2899.36,554.98
+ORD0430,2025-05-20,Sharon Williamson,Norte,Móveis,Cadeira,3,2111.27,6333.81,1633.24
+ORD0431,2025-05-02,Hunter Franklin,Centro-Oeste,Papelaria,Caderno,3,2768.57,8305.71,2396.28
+ORD0432,2024-08-20,Mia Davis,Norte,Papelaria,Caneta,3,333.66,1000.98,147.52
+ORD0433,2024-11-11,David Bond,Nordeste,Tecnologia,Notebook,4,2627.1,10508.4,1626.17
+ORD0434,2025-02-07,Jacqueline Brown,Norte,Papelaria,Caderno,7,1338.18,9367.26,2706.46
+ORD0435,2025-02-01,Amanda Lewis,Norte,Tecnologia,Monitor,9,1068.13,9613.17,1884.68
+ORD0436,2024-10-17,Bradley Mcintyre,Sudeste,Tecnologia,Mouse,4,2642.3,10569.2,3001.03
+ORD0437,2025-04-11,Lisa Fisher,Norte,Papelaria,Papel A4,4,1239.1,4956.4,462.79
+ORD0438,2025-07-13,Lydia Vang,Sul,Papelaria,Caneta,4,2144.95,8579.8,2124.69
+ORD0439,2025-03-01,Justin Jones,Nordeste,Móveis,Mesa,4,1587.1,6348.4,1018.86
+ORD0440,2025-07-20,Jessica Figueroa,Sudeste,Papelaria,Caderno,5,2737.79,13688.95,835.55
+ORD0441,2025-05-14,Megan Smith,Sudeste,Tecnologia,Impressora,3,499.41,1498.23,136.0
+ORD0442,2024-08-17,Taylor Walter,Sudeste,Papelaria,Caneta,4,620.62,2482.48,645.08
+ORD0443,2025-05-28,Danielle Jimenez,Centro-Oeste,Móveis,Mesa,9,2819.81,25378.29,1670.2
+ORD0444,2024-09-17,Katie Morrow,Sudeste,Tecnologia,Notebook,5,1316.4,6582.0,499.58
+ORD0445,2025-01-11,Alexandria Camacho,Centro-Oeste,Papelaria,Caneta,6,1332.9,7997.4,2156.62
+ORD0446,2024-11-10,Haley Rice,Centro-Oeste,Papelaria,Caneta,5,1522.52,7612.6,1353.08
+ORD0447,2024-08-25,Steven Williams,Nordeste,Móveis,Cadeira,2,884.94,1769.88,455.43
+ORD0448,2024-12-08,Melinda Dunn,Sul,Papelaria,Caderno,1,2102.01,2102.01,413.47
+ORD0449,2024-12-29,Daniel Henderson,Centro-Oeste,Papelaria,Papel A4,5,374.05,1870.25,358.05
+ORD0450,2024-08-25,Michael Burgess,Sudeste,Tecnologia,Mouse,10,2283.19,22831.9,2147.75
+ORD0451,2025-03-13,Dr. Diana Mcdaniel DDS,Norte,Móveis,Mesa,8,2438.54,19508.32,5429.16
+ORD0452,2025-03-27,Jon Castro,Nordeste,Tecnologia,Monitor,5,1950.75,9753.75,1235.26
+ORD0453,2024-09-10,Anthony Arias,Sudeste,Papelaria,Caderno,1,2994.95,2994.95,854.85
+ORD0454,2024-10-17,Matthew Smith,Centro-Oeste,Móveis,Cadeira,9,2784.92,25064.28,5201.89
+ORD0455,2024-10-12,David Villegas,Nordeste,Tecnologia,Impressora,9,2966.03,26694.27,6088.14
+ORD0456,2024-12-27,Eric Young,Sudeste,Papelaria,Papel A4,9,1520.08,13680.72,2996.1
+ORD0457,2025-03-27,Samantha Horne,Nordeste,Tecnologia,Impressora,5,2819.21,14096.05,1200.04
+ORD0458,2024-08-17,Jill Bowman,Centro-Oeste,Móveis,Cadeira,1,2941.43,2941.43,458.94
+ORD0459,2024-08-20,Nathan Hull,Centro-Oeste,Papelaria,Caderno,1,2268.5,2268.5,134.88
+ORD0460,2025-02-21,Michael Lee,Sul,Tecnologia,Mouse,1,2869.01,2869.01,219.87
+ORD0461,2024-11-01,Dennis Bell,Nordeste,Tecnologia,Mouse,9,875.35,7878.15,1660.19
+ORD0462,2025-03-06,Russell Hill,Sul,Tecnologia,Mouse,2,1788.84,3577.68,601.87
+ORD0463,2024-12-21,Melissa Elliott,Nordeste,Tecnologia,Monitor,10,719.08,7190.8,1720.38
+ORD0464,2025-03-05,Patricia Murphy,Norte,Móveis,Cadeira,7,711.31,4979.17,1182.68
+ORD0465,2024-11-27,Brittany Barnes,Centro-Oeste,Tecnologia,Monitor,2,662.02,1324.04,102.23
+ORD0466,2024-11-24,Melissa Woodward,Norte,Tecnologia,Notebook,7,1455.82,10190.74,1175.22
+ORD0467,2024-08-06,David Mckenzie,Sudeste,Móveis,Estante,10,947.88,9478.8,2545.51
+ORD0468,2025-04-17,Jennifer Long,Sul,Papelaria,Caderno,1,2383.76,2383.76,547.78
+ORD0469,2024-12-09,Anthony Griffin,Centro-Oeste,Móveis,Cadeira,2,559.13,1118.26,220.14
+ORD0470,2025-05-19,Kathryn Cardenas,Centro-Oeste,Móveis,Cadeira,4,1229.48,4917.92,450.48
+ORD0471,2025-05-07,Timothy Ellis,Centro-Oeste,Tecnologia,Monitor,10,2742.23,27422.3,7342.92
+ORD0472,2025-05-02,Alyssa Glenn,Centro-Oeste,Papelaria,Papel A4,3,1817.86,5453.58,974.82
+ORD0473,2024-10-21,Stephanie Richard,Centro-Oeste,Papelaria,Caneta,9,1942.68,17484.12,2874.51
+ORD0474,2025-01-30,Kendra Robbins,Nordeste,Móveis,Estante,7,2192.26,15345.82,1929.78
+ORD0475,2024-11-12,James Bryan,Sul,Tecnologia,Notebook,8,1587.53,12700.24,1732.02
+ORD0476,2025-01-03,Christina Boyd,Nordeste,Móveis,Estante,10,1617.91,16179.1,4815.89
+ORD0477,2024-09-21,Michael Aguilar,Centro-Oeste,Tecnologia,Monitor,5,1566.86,7834.3,1374.85
+ORD0478,2025-05-24,Nancy Torres,Sul,Móveis,Cadeira,7,2846.36,19924.52,2290.92
+ORD0479,2025-04-11,Robert Willis,Nordeste,Papelaria,Caderno,2,2931.19,5862.38,1027.45
+ORD0480,2024-08-06,Felicia Richard,Sudeste,Tecnologia,Notebook,5,1708.98,8544.9,1073.62
+ORD0481,2024-12-10,Noah Monroe,Sul,Tecnologia,Monitor,9,642.39,5781.51,606.64
+ORD0482,2025-07-19,Jennifer Garcia,Nordeste,Papelaria,Caderno,1,2788.62,2788.62,635.23
+ORD0483,2025-03-18,Gail Brown,Centro-Oeste,Tecnologia,Monitor,7,2844.84,19913.88,3152.78
+ORD0484,2024-11-26,Dr. Jennifer Nelson,Nordeste,Tecnologia,Mouse,7,1432.46,10027.22,2397.57
+ORD0485,2025-03-02,Eric White,Nordeste,Tecnologia,Mouse,8,2918.27,23346.16,1397.68
+ORD0486,2024-09-10,Brittany Smith,Centro-Oeste,Papelaria,Caderno,1,1081.66,1081.66,177.11
+ORD0487,2024-12-20,Derek Smith,Sul,Móveis,Cadeira,1,2842.88,2842.88,198.17
+ORD0488,2024-10-09,Bradley Pierce,Nordeste,Papelaria,Papel A4,7,74.79,523.53,122.48
+ORD0489,2025-06-30,Mark Johnson,Centro-Oeste,Tecnologia,Monitor,4,1290.01,5160.04,1121.81
+ORD0490,2024-10-07,Michael Walker,Centro-Oeste,Papelaria,Papel A4,3,698.56,2095.68,582.89
+ORD0491,2024-10-23,Tracy Baker,Sul,Papelaria,Caderno,6,1497.84,8987.04,1245.8
+ORD0492,2025-06-17,Sheila Wilson,Norte,Papelaria,Caderno,9,478.94,4310.46,254.48
+ORD0493,2024-12-08,Paul Jackson,Nordeste,Móveis,Estante,9,576.85,5191.65,1355.82
+ORD0494,2024-10-09,Daniel Pennington,Nordeste,Papelaria,Caderno,1,1557.34,1557.34,272.34
+ORD0495,2024-11-16,James Romero,Sudeste,Móveis,Estante,3,1795.44,5386.32,712.32
+ORD0496,2025-05-04,Thomas Bates,Centro-Oeste,Móveis,Mesa,8,2008.27,16066.16,3474.84
+ORD0497,2024-12-02,Donald Wilkerson,Sul,Móveis,Cadeira,2,1225.24,2450.48,430.44
+ORD0498,2024-08-07,Thomas Silva,Sul,Móveis,Mesa,8,1134.64,9077.12,2163.34
+ORD0499,2025-01-28,Teresa Smith,Centro-Oeste,Móveis,Estante,10,348.37,3483.7,619.9
+ORD0500,2025-05-18,Kevin Griffin,Sul,Móveis,Cadeira,6,612.44,3674.64,898.59

@@ -34,8 +34,11 @@ O conjunto de dados contém 500 registros de vendas fictícias com as seguintes 
 - Existe sazonalidade nas vendas em certos meses do ano.
 
 ## Visualizações
-Inclua aqui imagens ou links para os gráficos criados.
-
+![categoria](https://github.com/user-attachments/assets/b1a49a3c-f8ec-4dcd-95f6-f755e07cce35)
+![maisvendidos](https://github.com/user-attachments/assets/92e0e6e4-00e1-4205-b7f5-081ae9e877ea)
+![maislucrativos](https://github.com/user-attachments/assets/1e781121-109d-47ce-8e9d-322a09c3066e)
+![receitames](https://github.com/user-attachments/assets/9eef9a2a-7942-4aa0-a187-a5b721dd3b44)
+![lucroregiao](https://github.com/user-attachments/assets/8606cdf5-32f2-49c2-ba56-b92dcb1be58c)
 ## Conclusão
 Com base nos dados analisados, recomenda-se:
 - Focar em produtos de alta margem, mesmo que vendam menos.
